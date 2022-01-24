@@ -1,0 +1,28 @@
+/* body{
+
+    background-image: url("ro3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.caro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+} */
+
+/* body{
+    background-color: skyblue;
+}
+#taskContentsrow{
+
+    margin-top: 20%;
+} */
+
+
+body{
+    background-image: url("mi.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
